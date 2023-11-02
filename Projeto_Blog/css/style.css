@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    background-color: #50b4db;
+    color: aliceblue;
+    padding: 15px 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+header {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+
+h1 {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+.noticias {
+    width: 90%;
+    background-color: rgb(192, 192, 192);
+    border-radius: 15px;
+    padding: 20px ;
+    margin: 10px 10px;
+    border: 1px solid black;
+}
+
+footer {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    padding: 50px 0 50px;
+}
+
+h3.footerText {
+    color: white;
+    background-color: rgb(5, 5, 5);
+}
+
+/* ---------------LOGIN ------------------ */
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+h2.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    border: 1px solid black;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+input.entrar{
+    margin-top: 20px;
+    padding: 15px 50px;
+    background-color: #50b4db;
+}
