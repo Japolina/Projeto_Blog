@@ -22,7 +22,7 @@ Foi tirado uma base pelo meu professor, onde mostrou como será desenvolvido um 
 
 
 ## 🔨 Ferramentas
-
+- **HTML**
 - **PHP**
 - **CSS**
 
