@@ -2,7 +2,7 @@
 
 ## 📘 Sobre
 
-Esse projeto é um Blog de Games desenvolvido com servidor MariaDB e linguagem em PHP.
+Esse projeto é um Blog de Games desenvolvido com servidor MariaDB e com a linguagem em PHP.
 
 ## 📚 Qual foi a base do site?
 
