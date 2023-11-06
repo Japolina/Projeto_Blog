@@ -9,7 +9,7 @@ Esse projeto é um Blog de Games desenvolvido com servidor MariaDB e com a lingu
 Foi tirado uma base pelo meu professor, onde mostrou como será desenvolvido um blog de minha preferência.
 - A base do Blog.
   
-<img src="./Projeto_Blog/img/login.jpg" />
+<img src="./Projeto_Blog/img/base.jpg" />
 
 
 
