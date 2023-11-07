@@ -92,3 +92,8 @@ input.entrar{
     padding: 15px 50px;
     background-color: #50b4db;
 }
+input.cadastrar{
+    margin-top: 20px;
+    padding: 15px 50px;
+    background-color: #50b4db;
+}
